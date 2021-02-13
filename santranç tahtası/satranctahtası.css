@@ -1,0 +1,12 @@
+.siyah{
+    background: black;
+}
+table{
+        margin: auto;
+        border: 1px solid black;
+}
+table td{
+    width: 75px;
+    height: 75px;
+
+}
