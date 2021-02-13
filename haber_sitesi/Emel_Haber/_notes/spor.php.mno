@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:haber_id;datatype:int,name:haber_baslik;datatype:string,name:haber_resim;datatype:string,name:haber_icerik;datatype:string,name:haber_osayisi;datatype:int,name:haber_kat_id;datatype:int" />
+</info>
